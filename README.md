@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm **Ashish Mohite**
 ### Senior Software Engineer — Mobile • Android • iOS  
-![Typing SVG](assets/profile.svg)
+![Typing SVG](assets/readme.svg)
 
 </div>
 
